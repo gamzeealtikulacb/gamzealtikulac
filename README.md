@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gamze Ebru</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Küre**
+- 🔭 I’m **Küre** Developer
 
 - 🌱 I’m currently learning **DRF**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
